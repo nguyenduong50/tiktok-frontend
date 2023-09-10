@@ -5,6 +5,10 @@
     --primary: rgba(214, 49, 16, 0.9);
 }
 
+*{
+    box-sizing: border-box;
+}
+
 html{
     font-size: 62.5%;
 }
