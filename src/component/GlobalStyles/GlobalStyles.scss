@@ -1,0 +1,17 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+
+:root{
+    --primary: rgba(214, 49, 16, 0.9);
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'PT Serif', serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-rendering: optimizeSpeed;
+}
